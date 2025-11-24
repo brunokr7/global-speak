@@ -5,16 +5,16 @@
 Este projeto consiste em um sistema de banco de dados relacional desenvolvido como parte da disciplina de Modelagem de Banco de Dados. O objetivo é simular a gestão completa de uma escola de idiomas, cobrindo o ciclo de vida do aluno, a alocação em turmas e o controle de frequência.
 
 O projeto foi desenvolvido em três fases principais:
-1.  **Modelo Conceitual:** Definição do Minimundo (Escola de Idiomas).
-2.  **Modelo Lógico:** Criação e Normalização do Diagrama Entidade-Relacionamento (DER).
-3.  **Modelo Físico:** Implementação e Manipulação de Dados (DDL e DML) em SQL.
+1.  Definição do Minimundo (Escola de Idiomas).
+2.  Criação e Normalização do Diagrama Entidade-Relacionamento (DER).
+3.  Implementação e Manipulação de Dados (DDL e DML) em SQL.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **SGBD:** MySQL / PostgreSQL (Compatível com SQL Padrão)
-* **Ferramenta de Modelagem:** (Mencione a ferramenta que você usou, ex: Lucidchart / Draw.io / MySQL Workbench)
+* **SGBD:** MySQL / PostgreSQL 
+* **Ferramenta de Modelagem:** (Lucidchart)
 * **Versionamento:** Git / GitHub
 * **Linguagem:** SQL (DDL e DML)
 
